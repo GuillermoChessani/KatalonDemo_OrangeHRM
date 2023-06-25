@@ -1,4 +1,4 @@
-# Katalon Studio Automation Regression Tests - Human Resources Page
+# Katalon Studio Automation Regression Tests - OrangeHRM.com Page
 
 This Katalon Studio project contains automated regression tests for the Human Resources page of the OrangeHRM application.
 
